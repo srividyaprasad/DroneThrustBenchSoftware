@@ -1,0 +1,336 @@
+[
+    {
+        "Metadata": {
+            "Generated Date and Time": "Wed Jun 21 08:43:32 2023",
+            "UID1": 2687005,
+            "UID2": 1398100756,
+            "UID3": 540095537
+        }
+    },
+    {
+        "Build information": {
+            "Bootloader Version": "0.0.0.1",
+            "Firmware Build": "0.0.7",
+            "Firmware Name": "vertiq_8108_speed",
+            "GUI Version": "1.4.0",
+            "Hardware Name": "Vertiq 8108 150kv",
+            "Upgrader Version": "1.0.1.1"
+        }
+    },
+    {
+        "descriptor": "advanced_vertiq_8108_speed",
+        "Entries": [
+            {
+                "descriptor": "Always Armed",
+                "value": 0
+            },
+            {
+                "descriptor": "Amps Bias",
+                "value": -173.133056640625
+            },
+            {
+                "descriptor": "Arming State",
+                "value": 0
+            },
+            {
+                "descriptor": "Current Max",
+                "value": 120
+            },
+            {
+                "descriptor": "DroneCAN Bitrate",
+                "value": 500000
+            },
+            {
+                "descriptor": "DroneCAN Bypass Arming",
+                "value": 1
+            },
+            {
+                "descriptor": "Hobby Calibrated Communication Protocol",
+                "value": 1
+            },
+            {
+                "descriptor": "Hobby Calibration High",
+                "value": 1940
+            },
+            {
+                "descriptor": "Hobby Calibration Low",
+                "value": 1100
+            },
+            {
+                "descriptor": "Manual Arming Throttle Source",
+                "value": 0
+            },
+            {
+                "descriptor": "Module ID",
+                "value": 0
+            },
+            {
+                "descriptor": "Power Filter Cutoff",
+                "value": 200
+            },
+            {
+                "descriptor": "Revert to Factory Default Key 1",
+                "value": 0
+            },
+            {
+                "descriptor": "Revert to Factory Default Key 2",
+                "value": 0
+            },
+            {
+                "descriptor": "Speed Redline End",
+                "value": 523
+            },
+            {
+                "descriptor": "Speed Redline Start",
+                "value": 471
+            },
+            {
+                "descriptor": "Stopped Speed",
+                "value": 5
+            },
+            {
+                "descriptor": "Stopped Time",
+                "value": 1
+            },
+            {
+                "descriptor": "Stow Target Acceleration",
+                "value": 50
+            },
+            {
+                "descriptor": "Temperature Filter Cutoff",
+                "value": 10
+            },
+            {
+                "descriptor": "Timeout Meaning",
+                "value": 0
+            },
+            {
+                "descriptor": "UART Baud Rate",
+                "value": 115200
+            },
+            {
+                "descriptor": "Volts Limit",
+                "value": 32768
+            },
+            {
+                "descriptor": "Volume Max",
+                "value": 0.5
+            },
+            {
+                "descriptor": "Zero Spin Throttle Percentage",
+                "value": 0
+            },
+            {
+                "descriptor": "Zero Spin Throttle Tolerance",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "descriptor": "general_vertiq_8108_speed",
+        "Entries": [
+            {
+                "descriptor": "Arm On Throttle",
+                "value": 1
+            },
+            {
+                "descriptor": "Arm Throttle Lower Limit",
+                "value": 0
+            },
+            {
+                "descriptor": "Arm Throttle Upper Limit",
+                "value": 0.07500000298023224
+            },
+            {
+                "descriptor": "Communication",
+                "value": 1
+            },
+            {
+                "descriptor": "Consecutive Arming Throttles to Arm",
+                "value": 10
+            },
+            {
+                "descriptor": "Disarm Behavior",
+                "value": 0
+            },
+            {
+                "descriptor": "Disarm On Throttle",
+                "value": 0
+            },
+            {
+                "descriptor": "Disarm Song Playback Option",
+                "value": 1
+            },
+            {
+                "descriptor": "Disarm Throttle Lower Limit",
+                "value": 0
+            },
+            {
+                "descriptor": "Disarm Throttle Upper Limit",
+                "value": 0
+            },
+            {
+                "descriptor": "DroneCAN ESC Index",
+                "value": 0
+            },
+            {
+                "descriptor": "DroneCAN Node ID",
+                "value": 99
+            },
+            {
+                "descriptor": "DroneCAN Telemetry Frequency",
+                "value": 1
+            },
+            {
+                "descriptor": "FC 2D/3D Mode",
+                "value": 0
+            },
+            {
+                "descriptor": "Hold Stow",
+                "value": 0
+            },
+            {
+                "descriptor": "Mode",
+                "value": 2
+            },
+            {
+                "descriptor": "Motor Direction",
+                "value": 4
+            },
+            {
+                "descriptor": "Safe Factor",
+                "value": 1
+            },
+            {
+                "descriptor": "Stow Target Angle",
+                "value": 2.7755575615628914e-17
+            },
+            {
+                "descriptor": "Stow Zero Angle",
+                "value": 0
+            },
+            {
+                "descriptor": "Timeout Behavior",
+                "value": 0
+            },
+            {
+                "descriptor": "Timeout Song Playback Option",
+                "value": 2
+            }
+        ]
+    },
+    {
+        "descriptor": "testing_vertiq_8108_speed",
+        "Entries": [
+            {
+                "descriptor": "CAN Bus Error Passive Flag",
+                "value": 1
+            },
+            {
+                "descriptor": "CAN Bus Error Warning Flag",
+                "value": 1
+            },
+            {
+                "descriptor": "CAN Bus Off",
+                "value": 0
+            },
+            {
+                "descriptor": "CAN Last Error Code",
+                "value": 1
+            },
+            {
+                "descriptor": "CAN Receive Error Counter",
+                "value": 255
+            },
+            {
+                "descriptor": "CAN Transmit Error Counter",
+                "value": 0
+            },
+            {
+                "descriptor": "ESC Input",
+                "value": 0
+            },
+            {
+                "descriptor": "PWM",
+                "value": 0
+            },
+            {
+                "descriptor": "Velocity",
+                "value": 0
+            },
+            {
+                "descriptor": "Voltage",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "descriptor": "tuning_vertiq_8108_speed",
+        "Entries": [
+            {
+                "descriptor": "DroneCAN Zero Behavior",
+                "value": 2
+            },
+            {
+                "descriptor": "Input Filter Cutoff",
+                "value": 250
+            },
+            {
+                "descriptor": "Max Velocity",
+                "value": 600
+            },
+            {
+                "descriptor": "Max Volts",
+                "value": 48
+            },
+            {
+                "descriptor": "Stow Kd",
+                "value": 0.0099639892578125
+            },
+            {
+                "descriptor": "Stow Ki",
+                "value": 0
+            },
+            {
+                "descriptor": "Stow Kp",
+                "value": 1.999847412109375
+            },
+            {
+                "descriptor": "Timeout",
+                "value": 1.5
+            },
+            {
+                "descriptor": "Velocity FF0",
+                "value": 0
+            },
+            {
+                "descriptor": "Velocity FF1",
+                "value": 0.0707244873046875
+            },
+            {
+                "descriptor": "Velocity FF2",
+                "value": 0
+            },
+            {
+                "descriptor": "Velocity Kd",
+                "value": 0
+            },
+            {
+                "descriptor": "Velocity Ki",
+                "value": 0
+            },
+            {
+                "descriptor": "Velocity Kp",
+                "value": 0.0649871826171875
+            },
+            {
+                "descriptor": "Voltage Slew Limit",
+                "value": 10000
+            },
+            {
+                "descriptor": "Voltage Slew Limit Enable",
+                "value": 0
+            }
+        ]
+    }
+]
